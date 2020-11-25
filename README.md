@@ -1,3 +1,3 @@
 # TestRepo
 
-This is a test repo for QA Training
+## This is a test repo for QA Training
