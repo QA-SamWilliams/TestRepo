@@ -2,3 +2,8 @@ h1 {
     font-size: 1fr;
     color: blue;
 }
+
+h2 {
+    font-size: 2fr;
+    color: red;
+}
